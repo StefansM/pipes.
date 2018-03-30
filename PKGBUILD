@@ -1,6 +1,6 @@
 # Maintainer: To Be Assigned <youremail@domain.com>
 pkgname=pipes.c
-pkgver=1.0.0
+pkgver=0.0.0
 pkgrel=1
 pkgdesc='Small application to mimic the "pipes" screensaver in a terminal window'
 arch=('x86_64')
